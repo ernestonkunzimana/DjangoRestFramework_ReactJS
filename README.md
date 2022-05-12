@@ -1,0 +1,2 @@
+# DjangoRestFramework_ReactJS
+DjangoRestFramework_ReactJS development for studies
